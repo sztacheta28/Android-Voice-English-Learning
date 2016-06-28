@@ -6,6 +6,7 @@ import android.media.MediaPlayer;
 import android.os.Bundle;
 import com.github.clans.fab.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
@@ -32,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
     public static int goodAnswears = 0;
     public static int badAnswears = 0;
 
-    List<DictionaryHelper> dictionary = new ArrayList<DictionaryHelper>();
+    List<DictionaryHelper> dictionary = new ArrayList<>();
 
     @BindView(R.id.englishWord)
     TextView englishWordTextView;
@@ -86,7 +87,8 @@ public class MainActivity extends AppCompatActivity {
         }else{
             ++MainActivity.badAnswears;
             view.setBackgroundResource(R.drawable.bad_answear_button);
-            ((Button)view).setTextColor(getResources().getColor(R.color.white));
+            ((Button)view).setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.white));
+
 
             if(goodanswearBtnIdx == 1){
                 answearBtn2.setBackgroundResource(R.drawable.good_answear_button);
@@ -113,7 +115,7 @@ public class MainActivity extends AppCompatActivity {
         }else{
             ++MainActivity.badAnswears;
             view.setBackgroundResource(R.drawable.bad_answear_button);
-            ((Button)view).setTextColor(getResources().getColor(R.color.white));
+            ((Button)view).setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.white));
 
             if(goodanswearBtnIdx == 0){
                 answearBtn1.setBackgroundResource(R.drawable.good_answear_button);
@@ -140,7 +142,7 @@ public class MainActivity extends AppCompatActivity {
         }else{
             ++MainActivity.badAnswears;
             view.setBackgroundResource(R.drawable.bad_answear_button);
-            ((Button)view).setTextColor(getResources().getColor(R.color.white));
+            ((Button)view).setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.white));
 
             if(goodanswearBtnIdx == 0){
                 answearBtn1.setBackgroundResource(R.drawable.good_answear_button);
@@ -167,7 +169,7 @@ public class MainActivity extends AppCompatActivity {
         }else{
             ++MainActivity.badAnswears;
             view.setBackgroundResource(R.drawable.bad_answear_button);
-            ((Button)view).setTextColor(getResources().getColor(R.color.white));
+            ((Button)view).setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.white));
 
             if(goodanswearBtnIdx == 0){
                 answearBtn1.setBackgroundResource(R.drawable.good_answear_button);
@@ -191,16 +193,16 @@ public class MainActivity extends AppCompatActivity {
         randomWord();
         answearBtn1.setClickable(true);
         answearBtn1.setBackgroundResource(R.drawable.normal_button);
-        answearBtn1.setTextColor(getResources().getColor(R.color.black));
+        answearBtn1.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.black));
         answearBtn2.setClickable(true);
         answearBtn2.setBackgroundResource(R.drawable.normal_button);
-        answearBtn2.setTextColor(getResources().getColor(R.color.black));
+        answearBtn2.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.black));
         answearBtn3.setClickable(true);
         answearBtn3.setBackgroundResource(R.drawable.normal_button);
-        answearBtn3.setTextColor(getResources().getColor(R.color.black));
+        answearBtn3.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.black));
         answearBtn4.setClickable(true);
         answearBtn4.setBackgroundResource(R.drawable.normal_button);
-        answearBtn4.setTextColor(getResources().getColor(R.color.black));
+        answearBtn4.setTextColor(ContextCompat.getColor(getApplicationContext(), R.color.black));
         nextBtn.setVisibility(View.GONE);
         englishWordTextView.setText("");
     }
@@ -310,7 +312,7 @@ public class MainActivity extends AppCompatActivity {
         BufferedReader r = new BufferedReader(new InputStreamReader(ins));
 
         try {
-            String line = "";
+            String line;
 
             while((line = r.readLine())!=null){
                 String[] elements = line.split("  ");

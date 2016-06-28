@@ -1,0 +1,970 @@
+﻿1  name  nazwa,nazwisko  nejm  
+2  very  bardzo  weri
+3  to  do,ku,na,po,za,dla,przy,aby,żeby  tu
+4  through  przez  fru
+5  and  i  end
+6  just  tylko,właśnie  dżast
+8  form  forma,tworzyć  form
+9  in  w  yn
+10  sentence  zdanie  senstens
+11  went  poszedł,poszli  łent
+12  it  to  yt
+14  think  myśleć,uważać  fynk
+15  you  ty  ju
+16  say  mówić,powiedzieć  sej
+17  that  że,ten,tamten,to,który  wet
+18  help  pomoc,pomagać  help
+19  he  on  hi
+20  low  niski,cichy,nisko,cicho,przygnębiony  loł
+21  was  być w czasie przeszłym w 1. i 3. os. l. poj.  łos
+22  line  linia,lina,kolejka,rząd  lajn
+23  for  dla,do,po  for
+24  differ  różnic się  dyfer
+25  on  na  on
+26  turn  skręcić,zakręt,obrót  tern
+27  are  są,jesteś  ar
+28  cause  przyczyna,powód,potocznie:ponieważ  koz
+29  with  z  łyf
+30  much  dużo  macz
+31  as  kiedy,gdy,ponieważ,tak jak  ez
+32  mean  znaczyć,skąpy,złośliwy,średni  min
+33  i  ja  aj
+34  before  przed  bifor
+35  his  jego  hys
+36  move  ruszać,ruch  muw
+37  they  oni  wej
+38  right  prawy,poprawny,dobry  rajt
+39  be  być  bi
+40  boy  chłopiec  boj
+41  at  przy,w,o,na  et
+42  old  stary  old
+43  one  jeden  łan
+44  too  także,za  tu
+45  have  mieć  hew
+46  same  ten sam,taki sam  sejm
+47  this  ten,ta  dys
+48  tell  powiedzieć  tel
+49  from  od,z  from
+50  does  robić w 3. osobie liczby pojedynczej  das
+51  or  albo  or
+52  set  komplet,grupa  set
+53  had  miał,mieliśmy  hed
+54  three  trzy  fri
+56  want  chcieć  łont
+57  hot  gorący  hot
+58  air  powietrze  er
+59  word  słowo  łerd
+60  well  cóż,dobrze  łel
+61  but  ale  bat
+62  also  także  olso
+63  what  co  łot
+64  play  grać,gra  plej
+65  some  kilka,niektóre  sam
+66  small  małe  smol
+67  we  my  łi
+68  end  koniec,kończyć  end
+69  can  umieć,potrafić  ken
+70  put  położyć  put
+71  out  na  zewnątrz  ałt
+72  home  dom  hołm
+73  other  inne  awer
+74  read  czytać  rid
+75  were  byli,byłeś  łer
+76  hand  dłoń  hend
+77  all  wszystko  ol
+78  port  port  port
+79  there  tam  wer
+80  large  olbrzymi  lardż
+81  when  kiedy,gdy  łen
+82  spell  zaklęcie,literować  spel
+83  up  na  ap
+84  add  dodać  ed
+85  use  używać,użycie  czasownik:juz,rzeczownik:jus
+86  even  nawet,równy  iwen
+87  your  twój  jor
+88  land  ziemia,lądować  lend
+89  how  jak  hał
+90  here  tutaj  hir
+91  said  powiedział  sed
+92  must  musieć  mast
+93  an  stawiamy przed samogłoską lub przed niemym h  en
+94  big  duży  byg
+95  each  każdy  icz
+96  high  wysoki,wysoko  haj
+97  she  ona  szi
+98  such  taki  sacz
+99  which  który  łicz
+100  follow  stosować się do,iść za,śledzić  foloł
+101  do  robić lub operator w present simple  du
+102  act  działać,ustawa  akt
+103  their  ich  weir
+104  why  dlaczego  łaj
+105  time  czas  tajm
+106  ask  pytac  ask
+107  if  jeśli  yf
+108  men  mężczyzna,człowiek  men
+109  will  będzie  łyl
+110  change  zmiana,zmieniać  czeńdż
+111  way  sposób,droga  łej
+112  went  poszedł,poszli  łent
+113  about  o,około  ebałt
+114  light  światło,zapalać,jasny,lekki  lajt
+115  many  wiele,dużo  meny
+116  kind  rodzaj  kajnd
+117  then  potem,wtedy  wen
+118  off  z  of
+119  them  ich  wem
+120  need  potrzebować,potrzeba  nid
+121  write  pisać  rajt
+122  house  dom  hałs
+123  would  np,zrobiłby,dałabym itp. he would do,i would give  łud
+124  picture  obraz,wyobrażać  pikczer
+125  like  lubić,jak  lajk
+126  try  próbować  traj
+127  so  więc,taki  soł
+129  these  te  diz
+130  again  znowu  egejn
+131  her  jej  her
+132  animal  zwierze  enymal
+133  long  długi  long
+134  point  wskazywać,punkt  pojnt
+135  make  robić  mejk
+136  mother  mama  mawer
+137  thing  rzecz  fyng
+138  world  świat  łerld
+139  see  widzieć  si
+140  near  blisko,obok  nir
+141  him  jego  hym
+142  build  budować  byld
+144  self  swoje,sobie,ja  self
+145  has  mieć w 3. osobie liczby pojedynczej  hes
+146  earth  ziemia  erf
+147  look  patrzeć,wyglądać  luk
+148  father  ojciec  fawer
+149  more  więcej  mor
+150  head  głowa.  główny  hed
+151  day  dzień  dej
+152  stand  stać,stoisko  stend
+153  could  móc  kud
+154  own  posiadać,własny  ołn
+155  go  iść  goł
+156  page  strona  pejdż
+157  come  przychodzić, przyjeżdżać  kam
+158  should  powinien  szud
+159  did  robił lub operator w past simple  dyd
+160  country  państwo,wieś  kantry
+161  number  liczba,numer,wiele  namber
+162  found  znalezione,znalazł  fałnd
+163  sound  dźwięk,brzmieć  sałnd
+164  answer  odpowiedz,odpowiadać  anser
+165  no  nie,żadnych  noł
+166  school  szkoła  skul
+167  most  najwięcej  mołst
+168  grow  rosnąć  groł
+169  people  ludzie  pipol
+170  study  studiować,uczyć  sie  stadi
+171  my  moje  maj
+172  still  ciągle  styl
+173  over  nad,przez  ołwer
+174  learn  uczyć  sie  lern
+175  know  wiedzieć,znać  noł
+176  plant  roślina,fabryka,sadzić  plant
+177  water  woda,podlewać  łoter
+178  cover  okładka,przykrywać  kawer
+179  than  niż  wen
+180  food  jedzenia,pokarm  fud
+181  call  dzwonić,nazywać,rozmowa  tel  kol
+183  first  pierwszy  ferst
+185  who  kto,który  hu
+186  between  pomiędzy  bitłin
+187  may  móc  mej
+188  state  stan,państwo,oświadczać  stejt
+189  down  w  dół  dałn
+190  keep  trzymać,zachowywać cos  kip
+191  side  strona  sajd
+193  been  być używane w czasie perfect lub w stronie biernej  bin
+194  never  nigdy  newer
+195  now  teraz  nał
+196  last  ostatni  last
+197  find  znaleźć,uważać za…  fajnd
+198  let  pozwolić,wynajmować  let
+199  any  jakikolwiek,jakieś,żadne  eny
+201  new  nowy  nju
+202  city  miasto  siti
+203  work  praca,pracować  łork
+204  tree  drzewo  tri
+205  part  część  part
+206  cross  krzyż,przechodzić przez  kros
+207  take  wziąć  tejk
+208  farm  gospodarstwo,uprawiać  farm
+209  get  dostać  get
+210  hard  twardy,trudny  hard
+211  place  miejsce  plejs
+212  start  zaczynać  start
+213  made  robić w czasie przeszłym i zrobione  mejd
+214  might  móc  majt
+215  live  mieszkać,żyć  lyw
+216  story  opowiadanie,historia  story
+217  where  gdzie  łer
+218  saw  widzieć w czasie przeszłym  so
+219  after  po  after
+220  far  daleko  far
+221  back  z powrotem,plecy  bek
+223  little  mało,mały  lytyl
+224  draw  rysować  dro
+225  only  tylko  onli
+226  left  lewy,pozostawiony  left
+227  round  okrągły,okrążać,w kółko,runda  rałnd
+228  late  późno  lejt
+229  man  człowiek,mężczyzna  men
+230  run  biegać  ran
+231  year  rok  jer
+233  came  przyjechał,przyszła…  keim
+234  while  podczas gdy,pewien czas  łajl
+235  show  pokazywać  szoł
+236  press  nacisnąć,prasa  pres
+237  every  każdy  ewri
+238  close  blisko  klołs
+239  good  dobry,dobrze  gud
+240  night  noc  najt
+241  me  mi,mnie  mi
+242  real  prawdziwy  ril
+243  give  dawać  gyw
+244  life  życie  lajf
+245  our  nasze  ałer
+246  few  niewiele  fju
+247  under  pod  ander
+249  open  otwierać  ołpen
+250  ten  dziesięć  ten
+251  seem  wydawać się  sim
+252  simple  proste  sympl
+253  together  razem  tugewer
+254  several  kilka  seweral
+255  next  następny  nekst
+256  vowel  samogłoska  wałel
+257  white  biały  łajt
+258  toward  w kierunku,do,ku  tełord
+259  children  dzieci  czyldren
+260  war  wojna  łor
+261  begin  zaczynać  begyn
+262  lay  leżeć w czasie przeszłym,kłaść,nakładać  lej
+263  got  dostawać,stawać się w czasie przeszłym  got
+264  against  przeciwko  egejnst
+265  walk  chodzić,spacerować  łok
+266  pattern  wzór  patern
+267  example  przykład  ikzampl
+268  slow  wolny,wolno  sloł
+269  ease  łatwość,łagodzić  iz
+270  center  centrum,środek  senter
+271  paper  papier,gazeta  pejper
+272  love  miłość,kochać  law
+273  group  grupa,zespół  grup
+274  person  osoba  person
+275  always  zawsze  olłejs
+276  money  pieniądze  many
+277  music  muzyka  mjuzik
+278  serve  służyć,obsługiwać  serw
+279  those  tamte  dołz
+280  appear  pojawiać się  epir
+281  both  razem,oboje  bołw
+282  road  droga  rołd
+283  mark  zaznaczać,ocena,znak,ślad  mark
+284  map  mapa  mep
+286  rain  deszcz,pada deszcz  rejn
+287  letter  list,litera  leter
+288  rule  rządzić,zasada  rul
+289  until  dopóki  antil
+290  govern  rządzić  gower
+291  mile  mila  majl
+292  pull  ciagnąć,nalewać  pul
+293  river  rzeka  rywer
+294  cold  zimny  kold
+295  car  samochód  kar
+296  notice  zauważyć,ogłoszenie,wymówienie  nołtys
+298  voice  głos  wojs
+299  care  opieka,troszczyć  się  ker
+300  unit  rozdział,jednostka  junit
+301  second  drugi  sekend
+302  power  siła,władza  pałer
+303  book  książka  buk
+304  town  miasto  tałn
+305  carry  nosić  keri
+306  fine  świetny,w porządku  fajn
+307  took  zabrać  w czasie przeszłym  tuk
+308  certain  pewny  sertyn
+309  science  nauki ścisłe  sajens
+310  fly  latać  flaj
+311  eat  jeść  it
+312  fall  spadać,upadek  fol
+313  room  pokój,miejsce  rum
+314  lead  prowadzić,przewodzić,kierować  lid
+315  friend  przyjaciel  frend
+316  cry  płakać  kraj
+317  began  zaczynać w czasie przeszłym  began
+318  dark  ciemny,mroczny  dark
+319  idea  pomysł  ajdija
+320  machine  maszyna  maszin
+321  fish  ryba,łowić ryby  fysz
+322  note  zanotować,notatka,zauważyć  nołt
+323  mountain  góra,górski  małntyn
+324  wait  czekać  łejt
+325  stop  zatrzymać się  stop
+326  plan  plan,zaplanować  plan
+327  once  jeden raz,kiedyś  łans
+328  figure  liczba,figura,postać,dojść do wniosku  figie
+329  base  podstawa,spód  bejz
+330  star  gwiazda  star
+331  hear  słyszeć  hir
+332  box  pudełko  boks
+333  horse  koń  hors
+334  noun  rzeczownik  nałn
+335  cut  ciąć,obcinać  kat
+336  field  pole,boisko,dziedzina  fild
+337  sure  pewny  szur
+338  rest  odpoczynek,odpoczywać  rest
+339  watch  oglądać  łocz
+340  correct  poprawiać  korekt
+341  color  kolor,kolorować  kala
+342  able  być w stanie coś zrobić  ejbl
+343  face  twarz  fejs
+344  pound  walić,funt  pałnd
+345  wood  drewno,las  łud
+346  done  zrobione i do w czasie  perfect  dan
+347  main  główny  mejn
+348  beauty  piękno  bjuti
+349  enough  wystarczająco  inaf
+350  drive  prowadzić samochód  drajw
+351  plain  zwykły,prosty,gładki,bez dodatków  plejn
+352  stood  stać w czasie przeszłym  stud
+353  girl  dziewczynka  gerl
+354  contain  zawierać  kontejn
+355  usual  zwykły  jużual
+356  front  przód  front
+357  young  młody  jang
+358  teach  uczyć  kogoś  ticz
+359  ready  gotowy  redi
+360  week  tydzień  łik
+361  above  nad  ebaw
+362  final  ostatni,końcowy,finał  fajnal
+363  ever  zawsze,kiedykolwiek  ewer
+364  gave  dawać w czasie przeszłym  gejw
+366  green  zielony  grin
+367  list  lista,spis,wymieniać  lyst
+369  though  chociaż,jednak  woł
+370  quick  szybki  kłik
+371  feel  czuć  fil
+372  develop  rozwijać  dewelołp
+373  talk  rozmawiać  tok
+374  ocean  ocean  ołszyn
+375  bird  ptak  berd
+376  warm  ciepły  łorm
+377  soon  wkrótce  sun
+378  free  wolny,darmowy  fri
+379  body  ciało  bodi
+380  minute  minuta  mynyt
+381  dog  pies  dog
+382  strong  silny  strong
+383  family  rodzina,rodzinny  femyli
+384  special  specjalny,szczególny  speszial
+385  direct  bezpośredni  dajrekt
+386  mind  umysł  majnd
+387  pose  poza  połz
+388  behind  za,z  tyłu  bihajnd
+389  leave  opuścić,wychodzić,zostawiać  liw
+390  clear  wyraźny,przejrzysty,czyścic  klir
+391  song  piosenka  song
+392  tail  ogon  tejl
+393  measure  miara,mierzyć  meżer
+394  produce  produkować  prodjus
+395  door  drzwi  dor
+396  fact  fakt  fakt
+397  product  produkt  prodakt
+398  street  ulica  strit
+399  black  czarny  blek
+400  inch  cal  yncz
+401  short  krótki  szort
+402  multiply  pomnożyć  multiplaj
+403  numeral  liczebnik  njumeral
+404  nothing  nic  nafyng
+405  class  klasa,klasowy  kles
+406  course  kurs  kors
+408  stay  zostać  stej
+409  question  pytanie  kłeszczyn
+410  wheel  koło,kierownica  łil
+411  happen  stać się,zdarzyć  hapen
+412  full  pełny  ful
+413  complete  całkowity,ukończony  komplit
+414  force  siła,zmuszać  fors
+415  ship  statek  szyp
+417  area  teren,obszar  arija
+418  object  przedmiot,cel  obdżekt
+419  half  połowa  half
+420  decide  decydować  dysajd
+421  rock  skała  rok
+422  surface  powierzchnia  serfys
+423  order  porządek,rozkaz,zamówienie  order
+424  deep  głęboki  dip
+425  fire  pożar,ogień  fajer
+426  moon  księżyc  mun
+427  south  południe  sałf
+428  island  wyspa  ajlend
+429  problem  problem,zadanie  problem
+430  foot  stopa  fut
+431  piece  kawałek  pis
+432  system  układ,system  system
+433  told  powiedzieć w czasie przeszłym  tell
+434  busy  zajęty  byzi
+435  knew  widzieć,znać w czasie przeszłym  nju
+436  test  testować,badać,próbować,próba,badanie  test
+437  pass  zdawać,podawać  pas
+438  record  płyta,nagrywać  rzecz:rekord,czasow:rikord
+439  since  od,od tego czasu,odkąd  syns
+440  boat  łódź  bołt
+441  top  szczyt  top
+442  common  powszechny,wspólny,pospolity  komon
+444  gold  złoto,złoty  gold
+445  king  król  king
+446  possible  możliwy  posybl
+447  space  przestrzeń,miejsce,kosmos  spejs
+448  plane  samolot  plejn
+449  heard  usłyszeć w czasie przeszłym  herd
+451  best  najlepszy  best
+452  dry  suchy  draj
+453  hour  godzina  ałer
+454  wonder  cud,zastanawiać się  łander
+455  better  lepszy  beter
+456  laugh  śmiać  się  laf
+457  true  prawdziwy  tru
+458  thousand  tysiąc  fałzynd
+459  during  podczas  djuring
+460  ago  temu np. 2 dni temu  egoł
+461  hundred  sto  handryd
+462  ran  biegać w czasie przeszłym  ran
+463  five  pięć  fajw
+464  check  sprawdzić  czek
+465  remember  pamiętać  rimember
+466  game  gra  gejm
+467  step  krok,stopień  step
+468  shape  kształt,forma  szejp
+469  early  wczesny  erli
+470  equate  przyrównywać  ikłejt
+471  hold  trzymac  hold
+472  hot  gorący  hot
+473  west  zachód  łest
+474  miss  tracić,spóźnić się,panna  mys
+475  ground  ziemia,teren,grunt  grałnd
+476  brought  przynosić  w  czasie  przeszłym  brot
+477  interest  zainteresowanie,udział,odsetki  intrest
+478  heat  upał,podgrzewać  hit
+479  reach  sięgać  ricz
+480  snow  śnieg,pada śnieg  snoł
+481  fast  szybki,szybko  fast
+482  tire  męczyć się  tajer
+483  verb  czasownik  werb
+484  bring  przynosić  bryng
+485  sing  śpiewać  syng
+486  yes  tak  jes
+487  listen  słuchać  lysyn
+488  distant  odległy,daleki  dystant
+489  six  sześć  syks
+490  fill  wypełniać  fyl
+491  table  stół  tejbl
+492  east  wschód  ist
+493  travel  podróżować  trawel
+494  paint  malować  pejnt
+495  less  mniej  les
+496  language  język  lengłydż
+497  morning  rano  morning
+498  among  wśród  emong
+499  grand  wielki,okazały,świetny  grand
+500  cat  kot  ket
+501  ball  piłka,bal  bol
+502  century  wiek  sentri
+503  yet  jeszcze,a  mimo  to  jet
+504  consider  brać  pod  uwagę,rozważać  konsyder
+505  wave  fala,machać  łejw
+506  type  typ,rodzaj,pisać  na  maszynie  tajp
+507  drop  upuścić,spadek,kropla  drop
+508  law  prawo  lo
+509  heart  serce  hart
+510  bit  kawałek,trochę  byt
+511  am  jestem  em
+512  coast  wybrzeże  kołst
+513  present  teraźniejszy,obecny  present
+514  copy  kopia,kopiować  kopi
+515  heavy  ciężki  hewi
+516  phrase  zwrot,wyrażenie  frejz
+517  dance  taniec,tańczyć  dens
+518  silent  cichy  sajlent
+519  engine  silnik  endżin
+520  tall  wysoki  tol
+521  position  pozycja,położenie,stanowiski  pozyszyn
+522  sand  piasek  send
+523  arm  ręka  arm
+524  soil  gleba,ziemia  sojl
+525  wide  szeroki  łajd
+526  roll  toczyć,rolka,bułka  rol
+527  sail  żeglować  sejl
+528  temperature  temperatura  tempricze
+529  material  materiał,materialny  matirjal
+530  finger  palec  u  ręki  finger
+531  size  rozmiar  sajz
+532  industry  przemysł  indastri
+533  vary  urozmaicać,różnić  sie  wari
+534  value  wartość  walju
+535  settle  roztrzygać,zasiedlać  setl  
+536  fight  walka,walczyć  fajt
+537  speak  mówić  spik
+538  lie  leżeć,kłamać,kłamstwo  laj
+540  beat  bicie,bić,rytm  bit
+541  general  ogólny,generalny,generał  dżeneral
+542  excite  ekscytować,podniecać  się  iksajt
+543  ice  lód  ajs
+544  natural  naturalny  naczural
+545  matter  sprawa,materiał,mieć  znaczenie  mater
+546  view  widok,pogląd  wju
+547  circle  koło.  okrąg,krążyć  syrkl
+548  sense  sens,znaczenie  sens
+549  pair  para  per
+550  ear  ucho  ir
+551  include  zawierać  inklud
+552  else  jeszcze,inne  els
+553  divide  podzielić  dywajd
+554  quite  całkiem  kłajt
+555  syllable  sylaba  sylabl
+556  broke  złamać  w  czasie  przeszłym  złamałam
+557  felt  czuć  w  czasie  przeszłym  czułam
+558  case  sprawa,przypadek,walizka,skrzynia  kejs
+559  perhaps  może  perhaps
+560  middle  środkowy  mydl
+561  pick  podnosić  pyk
+562  kill  zabić  kyl
+563  sudden  nagły  sadden
+564  son  syn  san
+565  count  liczyć  kałnt
+566  lake  jezioro  lejk
+567  square  kwadrat  skłer
+568  moment  chwila,moment  moment
+569  reason  powód  rizon
+570  scale  skala,rozmiar  skejl
+571  length  długość  lengf
+572  loud  głośny  lałd
+573  represent  reprezentować  reprizent
+574  spring  wiosna  spryng
+575  art  sztuka  art
+576  observe  obserwować,zauważyć  obzerw
+577  subject  podmiot,przedmiot  sabdżekt
+578  child  dziecko  czajld
+579  region  okolica,rejon  ridżyn
+580  straight  prosty,jasny,bezpośredni  strejt
+581  energy  energia  enerdżi
+582  consonant  spółgłoska  konzonant
+583  hunt  polować  hant
+584  nation  naród  nejszyn
+585  probable  prawdopodobny  probabl
+586  dictionary  słownik  dykszoneri
+587  bed  łóżko  bed
+588  milk  mleko  mylk
+589  brother  brat  brawer
+590  speed  prędkość,szybkość  spid
+591  egg  jajko  eg
+592  method  metoda,sposób  mefod
+593  ride  jazda,jeździć  rajd
+594  organ  narząd,organ  orgen
+595  cell  komórka  sel
+596  pay  płacić  pej
+597  believe  wierzyć,uważać  byliw
+598  age  wiek  ejdż
+599  fraction  odrobina,ułamek  frakszyn
+600  section  sekcja,część,odcinek  sekszyn
+601  forest  las  forest
+602  dress  sukienka  dres
+603  sit  siadać  syt
+604  cloud  chmura  klałd
+605  race  rasa,wyścig  rejs
+606  surprise  zaskoczyć,niespodzianka  syprajz
+607  window  okno  łindoł
+608  quiet  cichy,cicho  kłajet
+609  store  sklep,zapasy,schowek  stor
+610  stone  kamień  stołn
+611  summer  lato  samer
+612  tiny  malutki  tajni
+613  train  pociąg  trejn
+614  climb  wspinać  się  klajm
+615  sleep  spać  slip
+616  cool  chłodny,opanowany  kul
+617  prove  udowadniać,dowód  pruw
+618  design  projekt,projektować  dyzajn
+619  lone  samotny  lołn
+620  poor  biedny  pur
+621  leg  noga  leg
+622  lot  wiele  lot
+623  exercise  ćwiczenie,ćwiczyć  iksysajs
+624  experiment  doświadczenie,eksperyment  iksperiment
+625  wall  ściana  łol
+626  bottom  dno,dół,pupa  bottom
+627  catch  złapać  kecz
+628  key  klucz  ki
+629  mount  wierzchowiec,dosiadać  małnt
+630  iron  żelazo,prasować,żelazko  ajen
+631  wish  pragnienie,życzenie  łysz
+632  single  pojedynczy  syngl
+633  sky  niebo  skaj
+634  stick  kij,przyklejać,wtykać  styk
+635  board  tablica,pokład,deska  bord
+636  flat  mieszkanie,płaski  flat
+637  joy  radość  dżoj
+638  twenty  dwadzieścia  tłenti
+639  winter  zima  łinter
+640  skin  skóra  skyn
+641  sat  siedzieć  w  czasie  przeszłym  set
+642  smile  uśmiech.  uśmiechać  się  smajl
+643  written  napisane  lub  pisać  w  czasie  perfect  rytyn
+644  crease  gnieść,zmarszczka,zagięcie  kriz
+645  wild  dziki  łajld
+646  hole  dziura  hol
+647  instrument  instrument,narzędzie  ynstrument
+648  trade  handel,wymieniać,handlować  trejd
+650  melody  melodia  melodi
+651  glass  szkło,szklanka  gles
+652  trip  wycieczka  tryp
+653  grass  trawa  gras
+654  office  biuro  ofys
+655  cow  krowa  kał
+656  receive  otrzymywać  rysiw
+657  job  praca  dżob
+658  row  rząd,wiosłować  roł
+659  edge  skraj,krawędź  edż
+660  mouth  buzia  małf
+661  sign  znak  sajn
+662  exact  dokładny  ikzakt
+663  visit  odwiedzać  wyzyt
+665  past  przeszły,miniony  past
+666  die  umierać  daj
+667  soft  miękki  soft
+668  least  najmniej,najmniejszy  list
+669  fun  zabawa  fan
+670  trouble  problem,kłopoty  trobl
+671  bright  jasny,pogodny,bystry  brajt
+672  shout  krzyczeć,krzyk  szałt
+673  gas  benzyna,gaz  gez
+674  except  z  wyjątkiem  iksept
+675  weather  pogoda  łewer
+676  wrote  pisać  w  czasie  przeszłym  rołt
+677  month  miesiąc  manf
+678  seed  nasienie,ziarno  sid
+679  million  milion  mylien
+680  tone  ton,sygnał  tołn
+682  join  dołączyć,przyłączyć  się  dżojn
+683  finish  kończyć  fynysz
+684  suggest  sugerować,proponować  sadżest
+685  happy  szczęśliwy  hepi
+686  clean  czysty,sprzątać  klin
+687  hope  nadzieja,mieć  nadzieje  hołp
+688  break  łamać,przerwa  brejk
+689  flower  kwiat  flałer
+690  lady  kobieta,dama  lejdi
+691  clothe  ubierać  klełf
+692  yard  podwórko,ogródek,jard  jard
+693  strange  dziwny,obcy  strendż
+694  rise  wzrost,podnosić  się  rajz
+695  gone  miniony  lub  iść  w  czasie  perfect  gon
+696  bad  zły  bed
+697  jump  skok,skakać  dżamp
+698  blow  dmuchać  bloł
+699  baby  dziecko  bejbi
+700  oil  olej,oliwa,ropa  ojl
+701  eight  osiem  ejt
+702  blood  krew  blad
+703  village  wioska  wylydż
+704  touch  dotyk,dotykać  tacz
+706  grew  rosnąć  w  czasie  przeszłym  gru
+707  root  korzeń  rut
+708  cent  cent  sent
+709  buy  kupować  baj
+710  mix  mieszać  myks
+711  raise  podwyżać,podnosić  rajz
+712  team  zespół,drużyna  tim
+713  solve  rozwiązać  solw
+714  wire  drut  łajer
+715  metal  metal  metl
+716  cost  kosztować  kost
+717  whether  czy  łewer
+718  lost  zagubione,zgubić  w  czasie  przeszłym  lost
+719  push  pchać  pusz
+720  brown  brązowy  brałn
+721  seven  siedem  sewen
+722  wear  nosić  ubranie
+723  paragraph  akapit  paragraph
+724  garden  ogród  garden
+725  third  trzeci  ferd
+726  equal  równy  ikłol
+727  shall  zwrot  grzecznościowy  :shall  i  open,czy  mam  otworzyć  szel
+728  sent  wysyłać  w  czasie  przeszłym  lub  wysłane  sent
+729  held  trzymać  w  czasie  przeszłym  held
+730  choose  wybierać  czuz
+731  hair  włosy  her
+732  fell  spadać  w  czasie  przeszłym  lub  ścinać  w  terażniejszym  fel
+733  describe  opisywać  dyskrajb
+734  fit  pasować,odpowiedni,w  dobrej  kondycji  fizycznej  fyt
+735  cook  gotować,kucharz  kuk
+736  flow  przepływ,strumień  floł
+737  floor  podłoga,piętro  flor
+738  fair  jasny,sprawiedliwy  fer
+739  either  obojętnie  który,i  jeden  i  drugi  ajwer
+740  bank  bank  benk
+741  result  wynik,rezultat  rizalt
+742  collect  zbierać  kolekt
+743  burn  palić  bern
+744  save  oszczędzać,ratować  sejw
+745  hill  wzgórze,pogórek  hyl
+746  control  kontrolować  kontrol
+747  safe  bezpieczny  sejf
+748  decimal  dziesiętny,ulamek  dziesiętny  desyml
+749  gentle  delikatny  dżentl
+750  truck  ciężarówka  trak
+751  woman  kobieta  łomen
+752  noise  hałas  nojz
+753  captain  kapitan  kaptyn
+754  level  poziom  lewel
+755  practice  ćwiczyć  praktys
+756  chance  szansa  czens
+757  separate  oddzielić  seperejt
+758  gather  zbierać  gawer
+759  difficult  trudny  dyfykult
+760  shop  sklep  szop
+761  doctor  lekarz  dokta
+762  stretch  rozciągać  strecz
+763  please  proszę  pliz
+764  throw  rzut,rzucać  froł
+765  protect  chronić  protekt
+766  shine  świecić  szajn
+767  noon  południe  nun
+768  property  własność,posiadłość  property
+769  whose  czyje,czyja….  huz
+770  column  rubryka,kolumna  kalymn
+771  locate  lokalizować  lokejt
+772  molecule  molekuła,cząsteczka  molekjul
+773  ring  pierścionek,krąg  ryng
+774  select  wybierać  selekt
+775  character  charakter,postać  karakter
+776  wrong  błędny,błąd  rong
+777  insect  owad  ynsekt
+778  gray  szary  grej
+779  caught  łapać  w  czasie  przeszłym  lub  złapany  kot
+780  repeat  powtarzać  rypit
+782  require  wymagać  rikłaje
+783  indicate  wskazywać  yndikejt
+784  broad  szeroki  brołd
+785  radio  radio  rejdio
+786  prepare  przygotowywać  priper
+787  spoke  mówić  w  czasie  przeszłym  społk
+788  salt  sól  salt
+789  atom  atom  etym
+790  nose  nos  nołs
+791  human  człowiek,ludzki  hjuman
+792  plural  liczba  mnoga,mnogi  plurl
+793  history  historia  hystri
+794  anger  złość,wściekłość  enger
+795  effect  skutek,efekt  ifekt
+796  claim  twierdzić,żądać  klejm  7
+97  electric  elektryczny  ilektrik
+798  continent  kontynent  kontinent
+799  expect  oczekiwać  ikspekt
+801  crop  plon,roślina  uprawna  krop
+802  sugar  cukier  szugar
+803  modern  nowoczesny  modern
+804  death  śmierć  def
+805  element  element,pierwiastek  eliment
+806  pretty  ładny  pryti
+807  hit  uderzać  hyt
+808  skill  umiejętność  skyl
+809  student  uczeń,student  stjudent
+810  women  kobiety  łymyn
+811  corner  róg  korner
+812  season  pora  roku,sezon  sizyn
+813  party  przyjęcie,partia  parti
+814  solution  rozwiązanie  soluszyn
+815  supply  zapas,dostarczać  suplaj
+816  magnet  magnes  megnyt
+817  bone  kość  bołn
+818  silver  srebro,srebrny  sylwer
+819  rail  szyna,poręcz  rejl
+820  thank  dziękować  fenk
+821  imagine  wyobrażać  sobie  ymadżyn
+822  branch  gałąź,oddział  brancz
+823  provide  dostarczać,zaopatrywać  prowajd
+824  match  pasować,zapałka,mecz  mecz
+825  agree  zgadzać  się  egri
+826  suffix  przyrostek  safyks
+827  thus  w  ten  sposób,a  zatem  was
+828  especially  zwłaszcza  espeszali
+829  capital  stolica  kapytl
+830  fig  figa  fyg
+832  afraid  bać  się  efrejd
+833  chair  krzesło  czer
+834  huge  wielki  hjudż
+835  danger  niebezpieczeństwo  dendżer
+836  sister  siostra  syster
+837  fruit  owoc,owoce  frut
+838  steel  stal,stalowy  stil  
+839  rich  bogaty  rycz
+840  discuss  rozmawiać,dyskutować,omawiać  dyskas
+841  thick  gruby  fyk
+842  forward  do  przodu  fołard
+843  soldier  żołnierz  soldżer
+844  similar  podobny  symilar
+845  process  proces,przetwarzać  prołses
+846  guide  przewodnik,oprowadzać  gajd
+847  operate  operować,działać,obsługiwać  operejt
+848  experience  doświadczenie  ikspirjens
+849  guess  zgadywać  ges
+850  score  wynik,zaliczać  skor
+851  necessary  konieczny  neseseri
+852  apple  jabłko  epl
+853  sharp  ostry  szarp
+854  bought  kupować  w  czasie  przeszłym  bot
+855  wing  skrzydło  łing
+856  led  prowadzić,kierować  w  czasie  przeszłym  lid
+857  create  tworzyć  kriejt
+858  pitch  boisko,wysokość  pycz
+859  neighbor  sąsiad  nejbor
+860  coat  płaszcz  kołt
+861  wash  myć  łosz
+862  mass  masa,msza  mes
+863  bat  nietoperz,kij,rakietka  bet
+864  card  karta  kard
+865  rather  raczej  rawer
+866  band  zespół  bend
+867  crowd  tłum  krałd
+868  rope  lina  rołp
+869  corn  kukurydza,zboże  korn
+870  slip  poślizgnąć  się,halka  slyp
+871  compare  porównywać  komper
+872  win  zwyciężać  łyn
+873  poem  wiersz  poem
+874  dream  sen,śnić  drim
+875  string  sznurek  string
+876  evening  wieczór  iwnin
+877  bell  dzwonek  bel
+878  condition  warunek,stan  kondyszn
+879  depend  zależeć  od  dypend
+880  feed  karmić  fid
+881  meat  mięso  mit
+882  tool  narzędzie  tul
+883  rub  pocierać  rab
+884  total  całkowity  totl
+885  tube  rura,tubka  tjub
+886  basic  podstawowy  bejzyk
+887  famous  sławny  fejmys
+888  smell  pachnieć,wąchać,zapach  smel
+889  dollar  dolar  dolar
+890  valley  dolina  walij
+891  stream  potok,nurt  strim
+892  nor  ani,żaden  nor
+893  fear  obawiać  się,strach  fir
+894  double  podwójny  dabl
+895  sight  wzrok  sajt
+896  seat  miejsce  sit
+897  thin  chudy,cienki  fyn
+898  arrive  przybywać  erajw
+899  triangle  trójkąt  trajangl
+900  master  mistrz,pan  master
+901  planet  planeta  planet
+902  track  szlak,tor,droga  trak
+903  hurry  śpieszyć  sie  hari
+904  parent  rodzic  parent
+905  chief  wódz,szef,głowny  czif
+906  shore  brzeg,wybrzeże  szor
+907  colony  kolonia  koleni
+908  division  podział,oddział  dywyżyn
+909  clock  zegar  ścienny  klok
+910  sheet  kartka  papieru,prześcieradło  szit
+911  mine  moje  majn
+912  substance  substancja  sabstens
+913  tie  wiązać,krawat,węzeł  taj
+914  favor  przychylność,faworyzować  fejwor
+915  enter  wejście,wchodzić  enter
+916  connect  łączyć  kontekt
+917  major  główny,ważny,major  mejdżer
+918  post  stanowisko  połst
+919  fresh  świeży  fresz
+920  spend  spędzać,wydawać  spend
+921  search  szukać  sercz
+922  chord  akord  kord
+923  send  wysyłać  send
+924  fat  gruby  fat
+925  yellow  żółty  jeloł
+926  glad  zadowolony  gled
+927  gun  broń  gan
+928  original  autentyczny,pierwotny  orydżynl
+929  allow  pozwolić  elał
+930  share  dzielić  szer
+931  print  drukować  prynt
+932  station  stacja,dworzec  stejszn
+933  dead  martwy  ded
+934  dad  tata  ded
+935  spot  miejsce,plamka  spot
+936  bread  chleb  bred
+937  desert  pustynia  desert
+938  charge  opłata,pobierać,oskarżenia  czardż
+939  suit  garnitur  sut
+940  proper  właściwy,odpowiedni  proper
+941  current  prąd,obecny  karent
+942  bar  bar,krata,tabliczka  czekolady
+943  lift  podwozić,winda,podnosić  lyft
+944  offer  oferować,oferta  ofer
+945  rose  róża,rosnąć  w  czasie  przeszłym  rołz
+946  segment  część,odcinek  segment
+947  continue  kontynuować,trwać  kontinju
+948  slave  niewolnik  slejw
+949  block  blok,klocek,bryła  blok
+950  duck  kaczka  dak
+951  chart  lista,wykres  czart
+952  instant  nagły  instant
+953  hat  kapelusz,czapka  hat
+954  market  rynek  market
+955  sell  sprzedawać  sel
+956  degree  stopień  sygri
+957  success  odnosić  sukces,sukces  sakses
+959  company  firma  kampany
+960  chick  pisklę  czyk
+961  subtract  odejmować  sabtrakt
+962  dear  drogi,jeleń  dir
+963  event  wydarzenie  iwent
+964  enemy  wróg  enemi
+965  particular  szczególny  partikjular
+966  reply  odpowiedź,odpowiadać  riplay
+967  deal  umowa  dil
+968  drink  pic  drynk
+969  swim  pływać  słym
+971  term  termin,określenia  term
+972  support  wspierać,wsparcie  saport
+973  opposite  naprzeciwko,przeciwny  ołpozyt
+974  speech  mowa,przemowa  spicz
+975  wife  żona  łaiw
+976  nature  natura,środowisko  nejczer
+977  shoe  but  szu
+978  range  łańcuch,zasięg  rendż
+979  shoulder  ramię  szolder
+980  steam  para,parować,gotować  na  parze  stim
+981  spread  rozprzestrzenianie  się,zasięg  spred
+982  motion  ruch  mołszn
+983  arrange  organizować,aranżować  erendż
+984  path  ścieżka  paf
+985  camp  obóz  kemp
+986  liquid  ciecz  lykłid
+987  invent  wynaleźć,wymyślić  inwent
+988  log  kłoda,dziennik,zapisywać  w  dzienniku  log
+989  cotton  wełna,bawełna  katn
+990  meant  znaczyć  w  czasie  przeszłym  ment
+991  born  rodzić  się  born
+992  quotient  współczynnik  kłołszyn
+993  determine  określać,ustalać  determajn
+994  teeth  zęby  tif
+995  quart  kwarta  kłort
+996  shell  muszla  szel
+997  nine  dziewięć  najn
+998  neck  szyja  nek
+999  supper  kolacja  sape
+1000  tongue  język,mowa  tann 

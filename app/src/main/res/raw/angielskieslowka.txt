@@ -37,7 +37,6 @@
 39  be  być  bi
 40  boy  chłopiec  boj
 41  at  przy,w,o,na  et
-42  old  stary  old
 43  one  jeden  łan
 44  too  także,za  tu
 45  have  mieć  hew
@@ -90,7 +89,6 @@
 93  an  stawiamy przed samogłoską lub przed niemym h  en
 94  big  duży  byg
 95  each  każdy  icz
-96  high  wysoki,wysoko  haj
 97  she  ona  szi
 98  such  taki  sacz
 99  which  który  łicz
@@ -203,7 +201,6 @@
 212  start  zaczynać  start
 213  made  robić w czasie przeszłym i zrobione  mejd
 214  might  móc  majt
-215  live  mieszkać,żyć  lyw
 216  story  opowiadanie,historia  story
 217  where  gdzie  łer
 218  saw  widzieć w czasie przeszłym  so
@@ -226,7 +223,6 @@
 237  every  każdy  ewri
 238  close  blisko  klołs
 239  good  dobry,dobrze  gud
-240  night  noc  najt
 241  me  mi,mnie  mi
 242  real  prawdziwy  ril
 243  give  dawać  gyw
@@ -320,7 +316,6 @@
 334  noun  rzeczownik  nałn
 335  cut  ciąć,obcinać  kat
 336  field  pole,boisko,dziedzina  fild
-337  sure  pewny  szur
 338  rest  odpoczynek,odpoczywać  rest
 339  watch  oglądać  łocz
 340  correct  poprawiać  korekt
@@ -768,8 +763,7 @@
 794  anger  złość,wściekłość  enger
 795  effect  skutek,efekt  ifekt
 796  claim  twierdzić,żądać  klejm  7
-97  electric  elektryczny  ilektrik
-798  continent  kontynent  kontinent
+797  electric  elektryczny  ilektrik
 799  expect  oczekiwać  ikspekt
 801  crop  plon,roślina  uprawna  krop
 802  sugar  cukier  szugar
@@ -825,7 +819,6 @@
 853  sharp  ostry  szarp
 854  bought  kupować  w  czasie  przeszłym  bot
 855  wing  skrzydło  łing
-856  led  prowadzić,kierować  w  czasie  przeszłym  lid
 857  create  tworzyć  kriejt
 858  pitch  boisko,wysokość  pycz
 859  neighbor  sąsiad  nejbor
@@ -864,7 +857,6 @@
 892  nor  ani,żaden  nor
 893  fear  obawiać  się,strach  fir
 894  double  podwójny  dabl
-895  sight  wzrok  sajt
 896  seat  miejsce  sit
 897  thin  chudy,cienki  fyn
 898  arrive  przybywać  erajw
